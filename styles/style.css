@@ -241,7 +241,7 @@
   flex-shrink: 0;
   flex-basis: 780px;
   max-width: 780px;
-  position: relative; 
+  position: relative;
 }
 
 .events__image {
@@ -264,13 +264,13 @@
 }
 
 .person_name_burbidge {
-  top:96px;
+  top: 96px;
   right: 125px;
 }
 
 .person_name_cannon {
   right: 216px;
-  bottom:18px;
+  bottom: 18px;
 }
 
 .person_name_mitchell {
@@ -284,7 +284,7 @@
 }
 
 .person__image {
-  max-width: 100%; 
+  max-width: 100%;
 }
 
 .person__image_size_l {
@@ -292,17 +292,17 @@
 }
 
 .person__image_size_m {
-  width: 100px; 
+  width: 100px;
 }
 
 .person__image_size_s {
-  width: 80px; 
+  width: 80px;
 }
 
 .person__caption {
   text-align: center;
   font-size: 14px;
-  margin: 0; 
+  margin: 0;
 }
 
 .membership {
@@ -357,8 +357,8 @@
   box-sizing: border-box;
   background-color: #000000;
   color: #ffffff;
-  position: relative; 
-  border-radius: 0 0 20px 20px; 
+  position: relative;
+  border-radius: 0 0 20px 20px;
 }
 
 .footer__columns {
@@ -410,9 +410,9 @@
 }
 
 .footer__copyright {
-    padding-top: 100px;
-    position: absolute;
-    bottom: 20px;
-    left: 80px;
-    font-size: 14px;
-  }
+  padding-top: 100px;
+  position: absolute;
+  bottom: 20px;
+  left: 80px;
+  font-size: 14px;
+}
